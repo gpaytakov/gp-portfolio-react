@@ -1,0 +1,8 @@
+{
+  "short_name": "GP-Portfolio",
+  "name": "Guvanchmyrat Paytakov Portfolio-React",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#6ee3f5"
+}
